@@ -23,7 +23,7 @@ if($method == 'POST'){
 			break;
 		
 		default:
-			$speech = "не понял";
+			$speech = "11";
 			break;
 	}
 
